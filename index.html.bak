@@ -2,15 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>The new progress in CCA and GAIT</title>
+<title>The new progress in Constructivist Cognitive Architecture (CCA) and 
+<br\>toolkit of Generating and Analyzing Interaction Traces (GAIT)</title>
 <style>
     .fontstyletitle{
-        font-size: 30px;
+        font-size: 25px;
         font-family: Arial, Helvetica, sans-serif;
-        padding: 30px;
+        padding: 10px;
     }
     .fontstyle{
-        font-size: 26px;
+        font-size: 20px;
         font-family: Arial, Helvetica, sans-serif;
         padding: 20px;
     }
@@ -20,7 +21,9 @@
 <body>
 <br/>
 
-<div align="center" class="fontstyletitle">The new progress in CCA and GAIT -- By Jianyong (LIRIS)</div> 
+<div align="center" class="fontstyletitle">The new progress in Constructivist Cognitive Architecture (CCA) and </div>
+<div align="center" c>toolkit of Generating and Analyzing Interaction Traces (GAIT)</div>
+<div align="right" align="center" class="fontstyletitle"> -- By Jianyong (LIRIS, UMR5205)</div> 
 <div align="center" class="fontstyle">Part 1: Autonomous functions learning in ROS2 (Gazebo) with TurtleBot3</div> 
 <table width="100%"> 
 <tr> 
@@ -34,7 +37,7 @@
 <div align="center" class="fontstyle">Part 2: Environment exploration with caching temporary behavioral patterns</div> 
 <table width="100%" > 
 <tr> 
-<td align="center"><video width="70%" height="70%" controls style="align-self: center;">
+<td align="center"><video controls style="align-self: center;">
     <source src="ok.mp4" type="video/mp4">
   </video>
 </td> 
